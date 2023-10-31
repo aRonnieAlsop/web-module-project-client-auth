@@ -23,7 +23,6 @@ function App() {
         <Route exact path="/friends/add">
           <AddFriend />
         </Route>
-        
 
       </div>
     </Router>
